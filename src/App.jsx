@@ -140,7 +140,7 @@ export default function LandingPage() {
             <h1 className="text-5xl md:text-7xl font-black mb-6 tracking-tighter leading-none">
               ANIME <br />
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 via-blue-500 to-indigo-500">
-                SIN LÍMITES
+                DE LOS BUENOS
               </span>
             </h1>
             <p className="text-lg text-gray-400 mb-8 leading-relaxed max-w-lg">
